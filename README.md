@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @matthiashaack
 - 👀 I’m interested in Coding,Java,Cloud,...
-- 👀 I’m readinf Science Fiction books
+- 📖 I’m reading Science Fiction books
 - 🌱 I’m currently learning Go
 
 Still trying out features ;-)
