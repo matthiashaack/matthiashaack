@@ -3,6 +3,8 @@
 - 👀 I’m readinf Science Fiction books
 - 🌱 I’m currently learning Go
 
+Still trying out features ;-)
+
 <!---
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
