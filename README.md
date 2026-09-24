@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @matthiashaack
 - 👀 I’m interested in Coding,Java,Cloud,...
 - 📖 I’m reading Science Fiction books
-- 🌱 I’m currently learning C#
+- 🌱 Java I can
+- 📫 C# I know
+- Learning how to master AI agents
 - I'm still studying Japanese
 
 <!---
